@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#main OR tag:#Доработать OR tag:#матан OR tag:#CompSci OR tag:#CSharp OR tag:#DesNArch OR tag:#unity  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Доработать  ",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "tag:#main  ",
+      "color": {
+        "a": 1,
+        "rgb": 65297
+      }
+    },
+    {
+      "query": "tag:#матан  ",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "tag:#CompSci  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#unity  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#DesNArch  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "tag:#CSharp  ",
+      "color": {
+        "a": 1,
+        "rgb": 12255487
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.89802494802495,
+  "lineSizeMultiplier": 2.14251559251559,
+  "collapse-forces": false,
+  "centerStrength": 0.333679833679834,
+  "repelStrength": 10.3326403326403,
+  "linkStrength": 0.383575883575884,
+  "linkDistance": 218,
+  "scale": 0.18740553176280028,
+  "close": false
+}

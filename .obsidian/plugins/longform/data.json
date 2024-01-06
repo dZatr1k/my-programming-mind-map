@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Матан/ДМиТИ/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2024-01-06T21:11:48.565Z",
+      "total": 2,
+      "drafts": {
+        "Матан/ДМиТИ/Index.md": {
+          "total": 2,
+          "scenes": {
+            "ДМиТИ": 2,
+            "Простые числа": 0,
+            "Решето Эратосфена": 0
+          }
+        },
+        "ДМиТИ/Index.md": {
+          "total": 608,
+          "scenes": {
+            "ДМиТИ": 16,
+            "Простые числа": 375,
+            "Решето Эратосфена": 217
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-01-05T21:02:19.373Z",
+      "total": 3,
+      "drafts": {
+        "Матан/ДМиТИ/Index.md": {
+          "total": 3,
+          "scenes": {
+            "ДМиТИ": 3,
+            "Простые числа": 0,
+            "Решето Эратосфена": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-01-05T17:27:34.212Z",
+      "total": 963,
+      "drafts": {
+        "Матан/ДМиТИ/ДМиТИ/Index.md": {
+          "total": 0,
+          "scenes": {
+            "вв": 0
+          }
+        },
+        "Матан/ДМиТИ/Index.md": {
+          "total": 963,
+          "scenes": {
+            "ДМиТИ": 24,
+            "НОД": 347,
+            "Простые числа": 375,
+            "Решето Эратосфена": 217
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}
