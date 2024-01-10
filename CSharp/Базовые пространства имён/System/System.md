@@ -1,4 +1,12 @@
+%% Begin Waypoint %%
+- [[Action]]
+- [[Array]]
+- [[Func]]
+- [[IComparable]]
+- [[Predicate]]
+- **[[System.Collections]]**
+- **[[System.Linq]]**
+
+%% End Waypoint %%
 System - это базовое пространство имён, которое реализует фундаментальные и базовые классы, определяющие часто используемые типы значений и ссылочных данных, события и обработчики событий, интерфейсы, атрибуты и исключения обработки.
-[[Array]] [[IComparable]] [[Func]] [[Predicate]] [[Action]]
-[[System.Collections]] [[System.Linq]]
 #CSharp 

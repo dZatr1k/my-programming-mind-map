@@ -1,2 +1,2 @@
-[[ComputerScience]][[Unity]][[СSharp]] [[Дизайн и Архитектура]] [[Матан]]
+[[Computer Science]][[Unity]][[CSharp]] [[Дизайн и Архитектура]] [[Матан]]
 #main 
