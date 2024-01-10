@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "tag:#main OR tag:#Доработать OR tag:#матан OR tag:#CompSci OR tag:#CSharp OR tag:#DesNArch OR tag:#unity  ",
+  "collapse-filter": true,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -67,6 +67,6 @@
   "repelStrength": 10.3326403326403,
   "linkStrength": 0.383575883575884,
   "linkDistance": 218,
-  "scale": 0.18740553176280053,
+  "scale": 0.4361533331551708,
   "close": false
 }
